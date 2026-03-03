@@ -1,0 +1,3 @@
+# Ignore credentials
+stage-2-production/credentials/*.json
+.env
